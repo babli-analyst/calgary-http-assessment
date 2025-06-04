@@ -20,4 +20,5 @@ This project analyzes Calgary's 1995 HTTP server logs to extract insights on ser
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calgary-log-analysis.git
+   [git clone https://github.com/yourusername/calgary-log-analysis.git
+](https://github.com/babli-analyst/calgary-http-assessment)
